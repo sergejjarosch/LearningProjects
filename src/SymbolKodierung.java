@@ -4,7 +4,7 @@ public class SymbolKodierung {
     // Code Number
     int num;
     // Output letters for the code
-    char A = 'A',B = 'B';
+    char A = 'a',B = 'b';
     // Letters after decoding
     char X, Y;
 

@@ -4,13 +4,19 @@ public class App {
     of the learning process in order to clarify various
     basic functions for myself  */
     public static void main(String[] args) {
-// Trigonometrie
-/*      Trigonometrie TrGn = new Trigonometrie();
+/* Trigonometrie
+        Trigonometrie TrGn = new Trigonometrie();
         TrGn.TrGleichung();     */
 
-// Symbol Codierung
-/*      SymbolKodierung SymKord = new SymbolKodierung();
-        SymKord.OutputSymKord();    */
+/* Symbol Codierung
+        SymbolKodierung SymKord = new SymbolKodierung();
+        SymKord.OutputSymKord(); */
+
+/* Optimum switching of the resistors
+
+ */
+        OptimumResistors OpRes = new OptimumResistors();
+        OpRes.outputTransistor();
 
 
     }
