@@ -15,7 +15,7 @@ public class ConfirmationWindow {
         //Simplified form of conditional branching
         if( res == YES_NO_OPTION){
             //Complete path to the image
-            String file = "src/img/csm_Nepalesischer_Roter_Panda_2_6323b83133.webp";
+            String file = "src/img/red_pand.png";
             // Create object for the image
             ImageIcon img = new ImageIcon(file);
             // Show window with the image
