@@ -10,14 +10,13 @@ public class App {
 
 /* Symbol Codierung
         SymbolKodierung SymKord = new SymbolKodierung();
-        SymKord.OutputSymKord(); */
+        SymKord.OutputSymKord();    */
 
 /* Optimum switching of the resistors
-
- */
         OptimumResistors OpRes = new OptimumResistors();
-        OpRes.outputTransistor();
+        OpRes.outputTransistor();   */
 
-
+        NumberGuessingGame NumGue = new NumberGuessingGame();
+        NumGue.output_Guess();
     }
 }

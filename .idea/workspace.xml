@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Comments specified">
-      <change afterPath="$PROJECT_DIR$/src/OptimumResistors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Optimum switching of the resistors">
+      <change afterPath="$PROJECT_DIR$/src/NumberGuessingGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SymbolKodierung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SymbolKodierung.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <updated>1706594363059</updated>
       <workItem from="1706594364104" duration="1041000" />
       <workItem from="1706626330752" duration="1306000" />
-      <workItem from="1706771824617" duration="7743000" />
+      <workItem from="1706771824617" duration="10980000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -100,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706774967559</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Optimum switching of the resistors">
+      <option name="closed" value="true" />
+      <created>1706781731931</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706781731931</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +116,7 @@
     <MESSAGE value="Lösung für x :&#10;-0.8580262366249893" />
     <MESSAGE value="SymbolKodierung erstellt" />
     <MESSAGE value="Comments specified" />
-    <option name="LAST_COMMIT_MESSAGE" value="Comments specified" />
+    <MESSAGE value="Optimum switching of the resistors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimum switching of the resistors" />
   </component>
 </project>
