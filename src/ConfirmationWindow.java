@@ -13,7 +13,7 @@ public class ConfirmationWindow {
     }
     public void otput_ConWin(){
         //Simplified form of conditional branching
-        if( res == YES_NO_OPTION){
+        if( res == YES_OPTION){
             //Complete path to the image
             String file = "src/img/red_pand.png";
             // Create object for the image

@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Update Red Panda">
-      <change afterPath="$PROJECT_DIR$/src/img/red_pand.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ConfirmationWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConfirmationWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Red_Panda_(24986761703).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/csm_Nepalesischer_Roter_Panda_2_6323b83133.webp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sergejjarosch"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5a0026c0-dd38-4804-8d2f-4f830938323e" />
+        <option name="url" value="https://github.com/sergejjarosch/LearningProjects.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -72,7 +83,7 @@
       <updated>1706594363059</updated>
       <workItem from="1706594364104" duration="1041000" />
       <workItem from="1706626330752" duration="1306000" />
-      <workItem from="1706771824617" duration="16397000" />
+      <workItem from="1706771824617" duration="17645000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -138,7 +149,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706798121265</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Update Red Panda">
+      <option name="closed" value="true" />
+      <created>1706799505268</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706799505268</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update Red Panda">
+      <option name="closed" value="true" />
+      <created>1706799602765</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706799602765</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
