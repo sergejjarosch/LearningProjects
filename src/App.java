@@ -16,7 +16,9 @@ public class App {
         OptimumResistors OpRes = new OptimumResistors();
         OpRes.outputTransistor();   */
 
+/* Simple conditional statement where the number is to be guessed.
+The Math.random; method is used here.
         NumberGuessingGame NumGue = new NumberGuessingGame();
-        NumGue.output_Guess();
+        NumGue.output_Guess();       */
     }
 }
