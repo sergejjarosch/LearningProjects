@@ -1,3 +1,4 @@
+import array.array_31;
 import conditions.*;
 import math.Fibonacci;
 import math.exponent;
@@ -80,6 +81,7 @@ The Math.random; method is used here.
 
 // Array - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+        array.array_31 arr1 = new array_31();
 
 
     }
