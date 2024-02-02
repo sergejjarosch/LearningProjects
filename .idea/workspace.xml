@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="math - exponent">
-      <change afterPath="$PROJECT_DIR$/src/array/array_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math/pi_number.java" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="edd pi numbers">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/array_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/array_31.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +85,7 @@
       <workItem from="1706594364104" duration="1041000" />
       <workItem from="1706626330752" duration="1306000" />
       <workItem from="1706771824617" duration="17645000" />
-      <workItem from="1706860266628" duration="16735000" />
+      <workItem from="1706860266628" duration="18314000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -226,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706877408424</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="edd pi numbers">
+      <option name="closed" value="true" />
+      <created>1706885583176</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706885583176</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +252,7 @@
     <MESSAGE value="for conditions 2.7" />
     <MESSAGE value="for conditions 2.8, 2.9, 2.10" />
     <MESSAGE value="math - exponent" />
-    <option name="LAST_COMMIT_MESSAGE" value="math - exponent" />
+    <MESSAGE value="edd pi numbers" />
+    <option name="LAST_COMMIT_MESSAGE" value="edd pi numbers" />
   </component>
 </project>
