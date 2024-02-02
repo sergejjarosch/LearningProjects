@@ -1,3 +1,5 @@
+package conditions;
+
 import java.util.Scanner;
 public class listing_2_3 {
     // create object scanner

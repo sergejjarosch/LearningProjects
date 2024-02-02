@@ -1,3 +1,5 @@
+package Operators;
+
 public class OptimumResistors {
     // Resistance of the resistors in ohms
     double R1 = 3, R2 = 5, R3 = 2, R = 1;

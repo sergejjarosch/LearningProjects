@@ -1,3 +1,5 @@
+package Operators;
+
 import java.lang.foreign.*;
 
 public class SymbolKodierung {

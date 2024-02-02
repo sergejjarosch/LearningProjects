@@ -1,3 +1,5 @@
+package conditions;
+
 import java.util.Scanner;
 public class listing_2_4_switch {
    Scanner input = new Scanner(System.in);

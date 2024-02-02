@@ -1,3 +1,5 @@
+import conditions.listing_2_5_switch;
+
 import java.io.IOException;
 
 public class App {
@@ -6,31 +8,34 @@ public class App {
     of the learning process in order to clarify various
     basic functions for myself  */
     public static void main(String[] args) throws IOException {
-/* Trigonometrie
-        Trigonometrie TrGn = new Trigonometrie();
+/* Operators.Trigonometrie
+        Operators.Trigonometrie TrGn = new Operators.Trigonometrie();
         TrGn.TrGleichung();     */
 
 /* Symbol Codierung
-        SymbolKodierung SymKord = new SymbolKodierung();
+        Operators.SymbolKodierung SymKord = new Operators.SymbolKodierung();
         SymKord.OutputSymKord();    */
 
 /* Optimum switching of the resistors
-        OptimumResistors OpRes = new OptimumResistors();
+        Operators.OptimumResistors OpRes = new Operators.OptimumResistors();
         OpRes.outputTransistor();   */
 
 /* Simple conditional statement where the number is to be guessed.
 The Math.random; method is used here.
-        NumberGuessingGame NumGue = new NumberGuessingGame();
+        conditions.NumberGuessingGame NumGue = new conditions.NumberGuessingGame();
         NumGue.output_Guess();       */
 
-/*        ConfirmationWindow RedPand = new ConfirmationWindow();
+/*        conditions.ConfirmationWindow RedPand = new conditions.ConfirmationWindow();
         RedPand.otput_ConWin();     */
 
 /* Listing 2.3
-        listing_2_3 l23 = new listing_2_3();
+        conditions.listing_2_3 l23 = new conditions.listing_2_3();
         l23.Sout_2_3();     */
+/*
+        conditions.listing_2_4_switch ls24 = new conditions.listing_2_4_switch();
+        ls24.sout_switch();     */
 
-        listing_2_4_switch ls24 = new listing_2_4_switch();
-        ls24.sout_switch();
+        listing_2_5_switch ls25 = new listing_2_5_switch();
+        ls25.sout_2_5();
     }
 }

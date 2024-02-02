@@ -1,3 +1,5 @@
+package conditions;
+
 import static javax.swing.JOptionPane.*;
 import static java.lang.Integer.parseInt;
 import static java.lang.Math.random;

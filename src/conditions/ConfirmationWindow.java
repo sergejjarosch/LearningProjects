@@ -1,3 +1,5 @@
+package conditions;
+
 import static javax.swing.JOptionPane.*;
 import javax.swing.ImageIcon;
 public class ConfirmationWindow {
