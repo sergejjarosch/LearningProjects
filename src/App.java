@@ -26,7 +26,11 @@ The Math.random; method is used here.
 /*        ConfirmationWindow RedPand = new ConfirmationWindow();
         RedPand.otput_ConWin();     */
 
+/* Listing 2.3
         listing_2_3 l23 = new listing_2_3();
-        l23.Sout_2_3();
+        l23.Sout_2_3();     */
+
+        listing_2_4_switch ls24 = new listing_2_4_switch();
+        ls24.sout_switch();
     }
 }

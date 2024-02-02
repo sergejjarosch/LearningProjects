@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Update Red Panda">
-      <change afterPath="$PROJECT_DIR$/src/listing_2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Create Listing 2.3">
+      <change afterPath="$PROJECT_DIR$/src/listing_2_4_switch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +84,7 @@
       <workItem from="1706594364104" duration="1041000" />
       <workItem from="1706626330752" duration="1306000" />
       <workItem from="1706771824617" duration="17645000" />
-      <workItem from="1706860266628" duration="1553000" />
+      <workItem from="1706860266628" duration="3315000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -167,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706799602765</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Create Listing 2.3">
+      <option name="closed" value="true" />
+      <created>1706861893561</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706861893561</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +188,7 @@
     <MESSAGE value="Number Guessing Game" />
     <MESSAGE value="Simple conditional statement where the number is to be guessed. The Math.random; method is used here." />
     <MESSAGE value="Update Red Panda" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Red Panda" />
+    <MESSAGE value="Create Listing 2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Listing 2.3" />
   </component>
 </project>
