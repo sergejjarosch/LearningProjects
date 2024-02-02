@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Create Listing 2.4 Switch">
-      <change afterPath="$PROJECT_DIR$/src/conditions/listing_2_5_switch.java" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Organized by packages">
+      <change afterPath="$PROJECT_DIR$/src/conditions/for_2_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ConfirmationWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditions/ConfirmationWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberGuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditions/NumberGuessingGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listing_2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditions/listing_2_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/listing_2_4_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditions/listing_2_4_switch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,21 +47,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/img" />
@@ -89,7 +86,7 @@
       <workItem from="1706594364104" duration="1041000" />
       <workItem from="1706626330752" duration="1306000" />
       <workItem from="1706771824617" duration="17645000" />
-      <workItem from="1706860266628" duration="4903000" />
+      <workItem from="1706860266628" duration="6060000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -187,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706864268211</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Organized by packages">
+      <option name="closed" value="true" />
+      <created>1706867386573</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706867386573</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +208,7 @@
     <MESSAGE value="Update Red Panda" />
     <MESSAGE value="Create Listing 2.3" />
     <MESSAGE value="Create Listing 2.4 Switch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Listing 2.4 Switch" />
+    <MESSAGE value="Organized by packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organized by packages" />
   </component>
 </project>

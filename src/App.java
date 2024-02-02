@@ -1,3 +1,4 @@
+import conditions.for_2_6;
 import conditions.listing_2_5_switch;
 
 import java.io.IOException;
@@ -35,7 +36,13 @@ The Math.random; method is used here.
         conditions.listing_2_4_switch ls24 = new conditions.listing_2_4_switch();
         ls24.sout_switch();     */
 
-        listing_2_5_switch ls25 = new listing_2_5_switch();
-        ls25.sout_2_5();
+/*      listing_2_5_switch ls25 = new listing_2_5_switch();
+        ls25.sout_2_5();        */
+
+/*        conditions.for_2_6 ls26 = new for_2_6();
+        ls26.for_2_6();     */
+
+
+
     }
 }
