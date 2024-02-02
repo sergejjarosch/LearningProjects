@@ -23,7 +23,10 @@ The Math.random; method is used here.
         NumberGuessingGame NumGue = new NumberGuessingGame();
         NumGue.output_Guess();       */
 
-        ConfirmationWindow RedPand = new ConfirmationWindow();
-        RedPand.otput_ConWin();
+/*        ConfirmationWindow RedPand = new ConfirmationWindow();
+        RedPand.otput_ConWin();     */
+
+        listing_2_3 l23 = new listing_2_3();
+        l23.Sout_2_3();
     }
 }
