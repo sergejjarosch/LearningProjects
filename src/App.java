@@ -1,5 +1,6 @@
 import conditions.for_2_6;
 import conditions.for_2_7;
+import conditions.listing_28;
 import conditions.listing_2_5_switch;
 
 import java.io.IOException;
@@ -46,7 +47,14 @@ The Math.random; method is used here.
 /*       conditions.for_2_7 ls27 = new for_2_7();
         ls27.output_27();      */
 
+        conditions.listing_28 ls28 = new listing_28();
+        ls28.output_28();
 
+        conditions.listing_28 ls29 = new listing_28();
+        ls28.output_29();
+
+        conditions.listing_28 ls210 = new listing_28();
+        ls210.output_210();
 
     }
 }
