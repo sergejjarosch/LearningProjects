@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="for conditions 2.7">
-      <change afterPath="$PROJECT_DIR$/src/conditions/listing_28.java" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="for conditions 2.8, 2.9, 2.10">
+      <change afterPath="$PROJECT_DIR$/src/conditions/listing_211.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/exponent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/conditions/listing_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/conditions/listing_28.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +88,7 @@
       <workItem from="1706594364104" duration="1041000" />
       <workItem from="1706626330752" duration="1306000" />
       <workItem from="1706771824617" duration="17645000" />
-      <workItem from="1706860266628" duration="9210000" />
+      <workItem from="1706860266628" duration="12259000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -208,7 +210,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706869657767</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="for conditions 2.8, 2.9, 2.10">
+      <option name="closed" value="true" />
+      <created>1706871713463</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706871713463</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,6 +237,7 @@
     <MESSAGE value="Organized by packages" />
     <MESSAGE value="for conditions 2.6" />
     <MESSAGE value="for conditions 2.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="for conditions 2.7" />
+    <MESSAGE value="for conditions 2.8, 2.9, 2.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="for conditions 2.8, 2.9, 2.10" />
   </component>
 </project>

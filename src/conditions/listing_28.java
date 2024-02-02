@@ -29,6 +29,7 @@ public class listing_28 {
             if ( i > n ) break;
         }
         System.out.println(" Die Summe der ungeraden Zahlen von 1 bis " +
+
                 n + ": " + sum);
     }
 
