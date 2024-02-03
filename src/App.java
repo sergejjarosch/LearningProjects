@@ -80,8 +80,8 @@ The Math.random; method is used here.
         PiPunkte.pi_out();      */
 
 // Array - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
-        array.array_31 arr1 = new array_31();
+/*
+        array.array_31 arr1 = new array_31();       */
 
 
     }
