@@ -1,0 +1,297 @@
+Index: src/App.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import array.array_31;\nimport conditions.*;\nimport math.Fibonacci;\nimport math.exponent;\nimport math.pi_number;\n\nimport java.io.IOException;\n\npublic class App {\n    /* The following main class is used to perform\n    the various exercises that I create in the course\n    of the learning process in order to clarify various\n    basic functions for myself  */\n    public static void main(String[] args) throws IOException {\n/* Operators.Trigonometrie\n        Operators.Trigonometrie TrGn = new Operators.Trigonometrie();\n        TrGn.TrGleichung();     */\n\n/* Symbol Codierung\n        Operators.SymbolKodierung SymKord = new Operators.SymbolKodierung();\n        SymKord.OutputSymKord();    */\n\n/* Optimum switching of the resistors\n        Operators.OptimumResistors OpRes = new Operators.OptimumResistors();\n        OpRes.outputTransistor();   */\n\n/* Simple conditional statement where the number is to be guessed.\nThe Math.random; method is used here.\n        conditions.NumberGuessingGame NumGue = new conditions.NumberGuessingGame();\n        NumGue.output_Guess();       */\n\n/*        conditions.ConfirmationWindow RedPand = new conditions.ConfirmationWindow();\n        RedPand.otput_ConWin();     */\n\n/* Listing 2.3\n        conditions.listing_2_3 l23 = new conditions.listing_2_3();\n        l23.Sout_2_3();     */\n/*\n        conditions.listing_2_4_switch ls24 = new conditions.listing_2_4_switch();\n        ls24.sout_switch();     */\n\n/*      listing_2_5_switch ls25 = new listing_2_5_switch();\n        ls25.sout_2_5();        */\n\n/*      conditions.for_2_6 ls26 = new for_2_6();\n        ls26.for_2_6();     */\n\n/*       conditions.for_2_7 ls27 = new for_2_7();\n        ls27.output_27();      */\n\n\n/*  conditions - - - - - - - - - - - - - - - - - - - - - - - - -\n\n        conditions.listing_28 ls28 = new listing_28();\n        ls28.output_28();\n\n        conditions.listing_28 ls29 = new listing_28();\n        ls28.output_29();\n\n        conditions.listing_28 ls210 = new listing_28();\n        ls210.output_210();\n\n        conditions.listing_211 ls211 = new listing_211();\n        ls211.out_211();\n\n        conditions.listing_211 ls212 = new listing_211();\n        ls212.out_212();\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */\n// Mathematical tasks\n\n/*      math.exponent ex = new exponent();\n        ex.exponet_out();   */\n\n/* Fibonacci Zahlen\n        math.Fibonacci fib = new Fibonacci();\n        fib.fibonacci_out(); */\n/* Pi zahl berechnung\n        math.pi_number PiPunkte = new pi_number();\n        PiPunkte.pi_out();      */\n\n// Array - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n        array.array_31 arr1 = new array_31();\n\n\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/App.java b/src/App.java
+--- a/src/App.java	(revision e706cbd2ba86d2bbdf55808460e6c7628573f2b2)
++++ b/src/App.java	(date 1706935838699)
+@@ -1,9 +1,3 @@
+-import array.array_31;
+-import conditions.*;
+-import math.Fibonacci;
+-import math.exponent;
+-import math.pi_number;
+-
+ import java.io.IOException;
+ 
+ public class App {
+@@ -12,77 +6,24 @@
+     of the learning process in order to clarify various
+     basic functions for myself  */
+     public static void main(String[] args) throws IOException {
+-/* Operators.Trigonometrie
+-        Operators.Trigonometrie TrGn = new Operators.Trigonometrie();
++/* Trigonometrie
++        Trigonometrie TrGn = new Trigonometrie();
+         TrGn.TrGleichung();     */
+ 
+ /* Symbol Codierung
+-        Operators.SymbolKodierung SymKord = new Operators.SymbolKodierung();
++        SymbolKodierung SymKord = new SymbolKodierung();
+         SymKord.OutputSymKord();    */
+ 
+ /* Optimum switching of the resistors
+-        Operators.OptimumResistors OpRes = new Operators.OptimumResistors();
++        OptimumResistors OpRes = new OptimumResistors();
+         OpRes.outputTransistor();   */
+ 
+ /* Simple conditional statement where the number is to be guessed.
+ The Math.random; method is used here.
+-        conditions.NumberGuessingGame NumGue = new conditions.NumberGuessingGame();
++        NumberGuessingGame NumGue = new NumberGuessingGame();
+         NumGue.output_Guess();       */
+ 
+-/*        conditions.ConfirmationWindow RedPand = new conditions.ConfirmationWindow();
+-        RedPand.otput_ConWin();     */
+-
+-/* Listing 2.3
+-        conditions.listing_2_3 l23 = new conditions.listing_2_3();
+-        l23.Sout_2_3();     */
+-/*
+-        conditions.listing_2_4_switch ls24 = new conditions.listing_2_4_switch();
+-        ls24.sout_switch();     */
+-
+-/*      listing_2_5_switch ls25 = new listing_2_5_switch();
+-        ls25.sout_2_5();        */
+-
+-/*      conditions.for_2_6 ls26 = new for_2_6();
+-        ls26.for_2_6();     */
+-
+-/*       conditions.for_2_7 ls27 = new for_2_7();
+-        ls27.output_27();      */
+-
+-
+-/*  conditions - - - - - - - - - - - - - - - - - - - - - - - - -
+-
+-        conditions.listing_28 ls28 = new listing_28();
+-        ls28.output_28();
+-
+-        conditions.listing_28 ls29 = new listing_28();
+-        ls28.output_29();
+-
+-        conditions.listing_28 ls210 = new listing_28();
+-        ls210.output_210();
+-
+-        conditions.listing_211 ls211 = new listing_211();
+-        ls211.out_211();
+-
+-        conditions.listing_211 ls212 = new listing_211();
+-        ls212.out_212();
+-
+-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+-// Mathematical tasks
+-
+-/*      math.exponent ex = new exponent();
+-        ex.exponet_out();   */
+-
+-/* Fibonacci Zahlen
+-        math.Fibonacci fib = new Fibonacci();
+-        fib.fibonacci_out(); */
+-/* Pi zahl berechnung
+-        math.pi_number PiPunkte = new pi_number();
+-        PiPunkte.pi_out();      */
+-
+-// Array - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+-
+-        array.array_31 arr1 = new array_31();
+-
+-
++        ConfirmationWindow RedPand = new ConfirmationWindow();
++        RedPand.otput_ConWin();
+     }
+ }
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"79a82acb-7831-4118-9ac7-a27681d4ccdf\" name=\"Changes\" comment=\"add array\">\n      <change beforePath=\"$PROJECT_DIR$/src/App.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/App.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/array/array_31.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/array/array_31.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;sergejjarosch&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"5a0026c0-dd38-4804-8d2f-4f830938323e\" />\n        <option name=\"url\" value=\"https://github.com/sergejjarosch/LearningProjects.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 7\n}</component>\n  <component name=\"ProjectId\" id=\"2bf7cv4vQXajTDvLQl9VJXdOL0J\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.App.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/img\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"79a82acb-7831-4118-9ac7-a27681d4ccdf\" name=\"Changes\" comment=\"\" />\n      <created>1706594363059</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1706594363059</updated>\n      <workItem from=\"1706594364104\" duration=\"1041000\" />\n      <workItem from=\"1706626330752\" duration=\"1306000\" />\n      <workItem from=\"1706771824617\" duration=\"17645000\" />\n      <workItem from=\"1706860266628\" duration=\"18636000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Lösung für x :&#10;-0.8580262366249893\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706594745180</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706594745180</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"SymbolKodierung erstellt\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706774439147</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706774439147</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"SymbolKodierung erstellt\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706774446835</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706774446835</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Comments specified\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706774967559</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706774967559</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Optimum switching of the resistors\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706781731931</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706781731931</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"Number Guessing Game\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706792505764</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706792505764</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"Simple conditional statement where the number is to be guessed. The Math.random; method is used here.\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706792666947</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706792666947</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"Update Red Panda\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706798121265</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706798121265</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"Update Red Panda\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706799505268</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706799505268</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"Update Red Panda\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706799602765</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706799602765</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"Create Listing 2.3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706861893561</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706861893561</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"Create Listing 2.4 Switch\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706864268211</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706864268211</updated>\n    </task>\n    <task id=\"LOCAL-00013\" summary=\"Organized by packages\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706867386573</created>\n      <option name=\"number\" value=\"00013\" />\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706867386573</updated>\n    </task>\n    <task id=\"LOCAL-00014\" summary=\"for conditions 2.6\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706868735742</created>\n      <option name=\"number\" value=\"00014\" />\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706868735742</updated>\n    </task>\n    <task id=\"LOCAL-00015\" summary=\"for conditions 2.7\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706869657767</created>\n      <option name=\"number\" value=\"00015\" />\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706869657767</updated>\n    </task>\n    <task id=\"LOCAL-00016\" summary=\"for conditions 2.8, 2.9, 2.10\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706871713463</created>\n      <option name=\"number\" value=\"00016\" />\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706871713463</updated>\n    </task>\n    <task id=\"LOCAL-00017\" summary=\"math - exponent\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706877408424</created>\n      <option name=\"number\" value=\"00017\" />\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706877408424</updated>\n    </task>\n    <task id=\"LOCAL-00018\" summary=\"edd pi numbers\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706885583176</created>\n      <option name=\"number\" value=\"00018\" />\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706885583176</updated>\n    </task>\n    <task id=\"LOCAL-00019\" summary=\"add array\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1706887525648</created>\n      <option name=\"number\" value=\"00019\" />\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1706887525648</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"20\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Lösung für x :&#10;-0.8580262366249893\" />\n    <MESSAGE value=\"SymbolKodierung erstellt\" />\n    <MESSAGE value=\"Comments specified\" />\n    <MESSAGE value=\"Optimum switching of the resistors\" />\n    <MESSAGE value=\"Number Guessing Game\" />\n    <MESSAGE value=\"Simple conditional statement where the number is to be guessed. The Math.random; method is used here.\" />\n    <MESSAGE value=\"Update Red Panda\" />\n    <MESSAGE value=\"Create Listing 2.3\" />\n    <MESSAGE value=\"Create Listing 2.4 Switch\" />\n    <MESSAGE value=\"Organized by packages\" />\n    <MESSAGE value=\"for conditions 2.6\" />\n    <MESSAGE value=\"for conditions 2.7\" />\n    <MESSAGE value=\"for conditions 2.8, 2.9, 2.10\" />\n    <MESSAGE value=\"math - exponent\" />\n    <MESSAGE value=\"edd pi numbers\" />\n    <MESSAGE value=\"add array\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"add array\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e706cbd2ba86d2bbdf55808460e6c7628573f2b2)
++++ b/.idea/workspace.xml	(date 1706936115684)
+@@ -4,9 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array">
++    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Update Red Panda">
++      <change afterPath="$PROJECT_DIR$/src/listing_2_3.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/array/array_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/array_31.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -46,22 +47,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.App.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "main",
+-    "kotlin-language-version-configured": "true",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.App.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/src/img" />
+@@ -70,7 +70,7 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
++        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-2f79fb23" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -85,7 +85,6 @@
+       <workItem from="1706594364104" duration="1041000" />
+       <workItem from="1706626330752" duration="1306000" />
+       <workItem from="1706771824617" duration="17645000" />
+-      <workItem from="1706860266628" duration="18636000" />
+     </task>
+     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
+       <option name="closed" value="true" />
+@@ -167,79 +166,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1706799602765</updated>
+     </task>
+-    <task id="LOCAL-00011" summary="Create Listing 2.3">
+-      <option name="closed" value="true" />
+-      <created>1706861893561</created>
+-      <option name="number" value="00011" />
+-      <option name="presentableId" value="LOCAL-00011" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706861893561</updated>
+-    </task>
+-    <task id="LOCAL-00012" summary="Create Listing 2.4 Switch">
+-      <option name="closed" value="true" />
+-      <created>1706864268211</created>
+-      <option name="number" value="00012" />
+-      <option name="presentableId" value="LOCAL-00012" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706864268211</updated>
+-    </task>
+-    <task id="LOCAL-00013" summary="Organized by packages">
+-      <option name="closed" value="true" />
+-      <created>1706867386573</created>
+-      <option name="number" value="00013" />
+-      <option name="presentableId" value="LOCAL-00013" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706867386573</updated>
+-    </task>
+-    <task id="LOCAL-00014" summary="for conditions 2.6">
+-      <option name="closed" value="true" />
+-      <created>1706868735742</created>
+-      <option name="number" value="00014" />
+-      <option name="presentableId" value="LOCAL-00014" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706868735742</updated>
+-    </task>
+-    <task id="LOCAL-00015" summary="for conditions 2.7">
+-      <option name="closed" value="true" />
+-      <created>1706869657767</created>
+-      <option name="number" value="00015" />
+-      <option name="presentableId" value="LOCAL-00015" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706869657767</updated>
+-    </task>
+-    <task id="LOCAL-00016" summary="for conditions 2.8, 2.9, 2.10">
+-      <option name="closed" value="true" />
+-      <created>1706871713463</created>
+-      <option name="number" value="00016" />
+-      <option name="presentableId" value="LOCAL-00016" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706871713463</updated>
+-    </task>
+-    <task id="LOCAL-00017" summary="math - exponent">
+-      <option name="closed" value="true" />
+-      <created>1706877408424</created>
+-      <option name="number" value="00017" />
+-      <option name="presentableId" value="LOCAL-00017" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706877408424</updated>
+-    </task>
+-    <task id="LOCAL-00018" summary="edd pi numbers">
+-      <option name="closed" value="true" />
+-      <created>1706885583176</created>
+-      <option name="number" value="00018" />
+-      <option name="presentableId" value="LOCAL-00018" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706885583176</updated>
+-    </task>
+-    <task id="LOCAL-00019" summary="add array">
+-      <option name="closed" value="true" />
+-      <created>1706887525648</created>
+-      <option name="number" value="00019" />
+-      <option name="presentableId" value="LOCAL-00019" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1706887525648</updated>
+-    </task>
+-    <option name="localTasksCounter" value="20" />
++    <option name="localTasksCounter" value="11" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -253,15 +180,6 @@
+     <MESSAGE value="Number Guessing Game" />
+     <MESSAGE value="Simple conditional statement where the number is to be guessed. The Math.random; method is used here." />
+     <MESSAGE value="Update Red Panda" />
+-    <MESSAGE value="Create Listing 2.3" />
+-    <MESSAGE value="Create Listing 2.4 Switch" />
+-    <MESSAGE value="Organized by packages" />
+-    <MESSAGE value="for conditions 2.6" />
+-    <MESSAGE value="for conditions 2.7" />
+-    <MESSAGE value="for conditions 2.8, 2.9, 2.10" />
+-    <MESSAGE value="math - exponent" />
+-    <MESSAGE value="edd pi numbers" />
+-    <MESSAGE value="add array" />
+-    <option name="LAST_COMMIT_MESSAGE" value="add array" />
++    <option name="LAST_COMMIT_MESSAGE" value="Update Red Panda" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: src/listing_2_3.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/listing_2_3.java b/src/listing_2_3.java
+new file mode 100644
+--- /dev/null	(date 1706935842414)
++++ b/src/listing_2_3.java	(date 1706935842414)
+@@ -0,0 +1,6 @@
++import java.util.Scanner;
++public class listing_2_3 {
++    Scanner input = new Scanner(System.in);
++
++    public 
++}
