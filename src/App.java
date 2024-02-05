@@ -1,6 +1,7 @@
 import array.array_31;
 import array.array_32;
 import array.array_33;
+import array.array_34;
 import conditions.*;
 import math.Fibonacci;
 import math.exponent;
@@ -90,8 +91,11 @@ The Math.random; method is used here.
 /*        array.array_32 arr2 = new array_32();
         arr2.array_32_out();    */
 
-        array.array_33 arr3 = new array_33();
-        arr3.array_33_out();
+/*        array.array_33 arr3 = new array_33();
+        arr3.array_33_out();        */
+
+        array.array_34 arr4 = new array_34();
+        arr4.array_34_out();
 
     }
 }

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 32">
-      <change afterPath="$PROJECT_DIR$/src/array/array_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 33">
+      <change afterPath="$PROJECT_DIR$/src/array/array_34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       <workItem from="1706935958435" duration="744000" />
       <workItem from="1706940726679" duration="1169000" />
       <workItem from="1706950597883" duration="208000" />
-      <workItem from="1707118364122" duration="3074000" />
+      <workItem from="1707118364122" duration="4086000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -269,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707120359351</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="add array 33">
+      <option name="closed" value="true" />
+      <created>1707121602245</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1707121602245</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +314,7 @@
     <MESSAGE value="add array - error" />
     <MESSAGE value="add array 31" />
     <MESSAGE value="add array 32" />
-    <option name="LAST_COMMIT_MESSAGE" value="add array 32" />
+    <MESSAGE value="add array 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array 33" />
   </component>
 </project>
