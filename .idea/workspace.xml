@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 38 - Comparison of two arrays">
-      <change afterPath="$PROJECT_DIR$/src/array/array_39_textcodierung.java" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 39 - Text concealment">
+      <change afterPath="$PROJECT_DIR$/src/Simple_examples/Examples.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <workItem from="1706940726679" duration="1169000" />
       <workItem from="1706950597883" duration="208000" />
       <workItem from="1707118364122" duration="11259000" />
-      <workItem from="1707204727914" duration="10892000" />
+      <workItem from="1707204727914" duration="13275000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -321,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707224992569</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add array 39 - Text concealment">
+      <option name="closed" value="true" />
+      <created>1707229592858</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1707229592858</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -340,7 +348,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="SymbolKodierung erstellt" />
     <MESSAGE value="Comments specified" />
     <MESSAGE value="Optimum switching of the resistors" />
     <MESSAGE value="Number Guessing Game" />
@@ -365,6 +372,7 @@
     <MESSAGE value="add array 36 - add images: Lion, Tiger, Bear" />
     <MESSAGE value="add array 37 - Comparison of two arrays" />
     <MESSAGE value="add array 38 - Comparison of two arrays" />
-    <option name="LAST_COMMIT_MESSAGE" value="add array 38 - Comparison of two arrays" />
+    <MESSAGE value="add array 39 - Text concealment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array 39 - Text concealment" />
   </component>
 </project>

@@ -1,3 +1,4 @@
+import Simple_examples.Examples;
 import array.*;
 import conditions.*;
 import math.Fibonacci;
@@ -12,6 +13,9 @@ public class App {
     of the learning process in order to clarify various
     basic functions for myself  */
     public static void main(String[] args) throws IOException {
+
+        Simple_examples.Examples example_1 = new Examples();
+        example_1.example_output();
 /* Operators.Trigonometrie
         Operators.Trigonometrie TrGn = new Operators.Trigonometrie();
         TrGn.TrGleichung();     */
@@ -106,8 +110,8 @@ The Math.random; method is used here.
 /*        array.array_38 arr8 = new array_38();
         arr8.arra_38_output();      */
 
-        array.array_39_textcodierung arr9 = new array_39_textcodierung();
-        arr9.array_39_textcodierung_out();
+/*        array.array_39_textcodierung arr9 = new array_39_textcodierung();
+        arr9.array_39_textcodierung_out();      */
 
     }
 }
