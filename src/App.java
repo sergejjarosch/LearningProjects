@@ -97,8 +97,11 @@ The Math.random; method is used here.
 /*        array.array_35 arr5 = new array_35();
         arr5.array_35_out();        */
 
-        array.array_36 arr6 = new array_36();
-        arr6.array_36_output();
+/*        array.array_36 arr6 = new array_36();
+        arr6.array_36_output();     */
+
+        array.array_37 arr7 = new array_37();
+        arr7.arra_37_out();
 
     }
 }
