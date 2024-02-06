@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 36 - add images: Lion, Tiger, Bear">
-      <change afterPath="$PROJECT_DIR$/src/array/array_37.java" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 37 - Comparison of two arrays">
+      <change afterPath="$PROJECT_DIR$/src/array/array_38.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
@@ -87,7 +87,7 @@
       <workItem from="1706940726679" duration="1169000" />
       <workItem from="1706950597883" duration="208000" />
       <workItem from="1707118364122" duration="11259000" />
-      <workItem from="1707204727914" duration="5547000" />
+      <workItem from="1707204727914" duration="7818000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -305,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707146139942</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add array 37 - Comparison of two arrays">
+      <option name="closed" value="true" />
+      <created>1707223506492</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1707223506492</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,6 +356,7 @@
     <MESSAGE value="add array 34" />
     <MESSAGE value="add array 35 - add images: Lion, Tiger, Bear" />
     <MESSAGE value="add array 36 - add images: Lion, Tiger, Bear" />
-    <option name="LAST_COMMIT_MESSAGE" value="add array 36 - add images: Lion, Tiger, Bear" />
+    <MESSAGE value="add array 37 - Comparison of two arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array 37 - Comparison of two arrays" />
   </component>
 </project>

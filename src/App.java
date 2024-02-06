@@ -100,8 +100,11 @@ The Math.random; method is used here.
 /*        array.array_36 arr6 = new array_36();
         arr6.array_36_output();     */
 
-        array.array_37 arr7 = new array_37();
-        arr7.arra_37_out();
+/*        array.array_37 arr7 = new array_37();
+        arr7.arra_37_out();     */
+
+        array.array_38 arr8 = new array_38();
+        arr8.arra_38_output();
 
     }
 }
