@@ -123,8 +123,11 @@ The Math.random; method is used here.
 /*        array.array_311 arr11 = new array_311();
         arr11.array_311_out();      */
 
-        algorithmen.BubbleSort alg1 = new BubbleSort();
-        alg1.BubbleSort_output();
+/*        algorithmen.BubbleSort alg1 = new BubbleSort();
+        alg1.BubbleSort_output();       */
+
+        array.array_314 arr14 = new array_314();
+        arr14.array_314_out();
 
     }
 }

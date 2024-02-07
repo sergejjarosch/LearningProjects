@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add Scanner inline">
-      <change afterPath="$PROJECT_DIR$/src/algorithmen/BubbleSort.java" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add Bubble Sort">
+      <change afterPath="$PROJECT_DIR$/src/array/array_314.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
@@ -311,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707302662074</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="add Bubble Sort">
+      <option name="closed" value="true" />
+      <created>1707309322612</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1707309322612</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +359,7 @@
     <MESSAGE value="add array 3.11 - Fibonacci" />
     <MESSAGE value="add array 3.11 - Fibonacci, add scanner" />
     <MESSAGE value="add Scanner inline" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Scanner inline" />
+    <MESSAGE value="add Bubble Sort" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Bubble Sort" />
   </component>
 </project>
