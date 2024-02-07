@@ -1,10 +1,14 @@
 package array;
-
+import java.util.Scanner;
 public class array_311 {
+
+
     public void array_311_out () {
+        Scanner input = new Scanner(System.in);
+        System.out.println("Geben Sie die gewünschte Mänge der Fibonacci Zahlen: ");
         // Array Größe
-        int n = 15;
-        // Array für Fibonachi Zahlen:
+        int n = input.nextInt();
+        // Array für Fibonachi Zahlen, Mänge der zu erstellenden Zahlen:
         int[] Fib = new int [n];
         // Ersten zwei Zahle der Reihe:
         Fib[0] = 1;
