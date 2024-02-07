@@ -113,5 +113,8 @@ The Math.random; method is used here.
 /*        array.array_39_textcodierung arr9 = new array_39_textcodierung();
         arr9.array_39_textcodierung_out();      */
 
+        array.array_310 arr10 = new array_310();
+        arr10.array_310_output();
+
     }
 }
