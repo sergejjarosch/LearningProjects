@@ -1,4 +1,5 @@
 import Simple_examples.Examples;
+import algorithmen.BubbleSort;
 import array.*;
 import conditions.*;
 import math.Fibonacci;
@@ -14,8 +15,11 @@ public class App {
     basic functions for myself  */
     public static void main(String[] args) throws IOException {
 
-        Simple_examples.Examples example_1 = new Examples();
-        example_1.example_output();
+// Simple Examples - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ /*       Simple_examples.Examples example_1 = new Examples();
+        example_1.example_output();     */
+ // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 /* Operators.Trigonometrie
         Operators.Trigonometrie TrGn = new Operators.Trigonometrie();
         TrGn.TrGleichung();     */
@@ -116,8 +120,11 @@ The Math.random; method is used here.
 /*        array.array_310 arr10 = new array_310();
         arr10.array_310_output();       */
 
-        array.array_311 arr11 = new array_311();
-        arr11.array_311_out();
+/*        array.array_311 arr11 = new array_311();
+        arr11.array_311_out();      */
+
+        algorithmen.BubbleSort alg1 = new BubbleSort();
+        alg1.BubbleSort_output();
 
     }
 }
