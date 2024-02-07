@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 3.11 - Fibonacci">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 3.11 - Fibonacci, add scanner">
       <change beforePath="$PROJECT_DIR$/src/array/array_311.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/array_311.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -294,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707296197598</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add array 3.11 - Fibonacci, add scanner">
+      <option name="closed" value="true" />
+      <created>1707300360177</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1707300360177</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +339,7 @@
     <MESSAGE value="add array - error" />
     <MESSAGE value="add array 3.10" />
     <MESSAGE value="add array 3.11 - Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="add array 3.11 - Fibonacci" />
+    <MESSAGE value="add array 3.11 - Fibonacci, add scanner" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array 3.11 - Fibonacci, add scanner" />
   </component>
 </project>
