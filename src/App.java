@@ -1,4 +1,5 @@
 import Simple_examples.Examples;
+import Simple_examples.GuessRight;
 import algorithmen.BubbleSort;
 import array.*;
 import conditions.*;
@@ -126,8 +127,11 @@ The Math.random; method is used here.
 /*        algorithmen.BubbleSort alg1 = new BubbleSort();
         alg1.BubbleSort_output();       */
 
-        array.array_314 arr14 = new array_314();
-        arr14.array_314_out();
+/*        array.array_314 arr14 = new array_314();
+        arr14.array_314_out();      */
+
+/*        Simple_examples.GuessRight GuessNumber = new GuessRight();
+        GuessNumber.GuessRight_output();        */
 
     }
 }
