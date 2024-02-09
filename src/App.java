@@ -135,8 +135,10 @@ The Math.random; method is used here.
 /*        Simple_examples.GuessRight GuessNumber = new GuessRight();
         GuessNumber.GuessRight_output();        */
 
-        Simple_examples.dnaBases dnaBases_1 = new dnaBases();
-        dnaBases_1.dnaBases_output();
+/*        Simple_examples.dnaBases dnaBases_1 = new dnaBases();
+        dnaBases_1.dnaBases_output();       */
+
+        insel.Seite_237.printMax();
 
     }
 }

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Add Guess right number">
-      <change afterPath="$PROJECT_DIR$/src/Simple_examples/dnaBases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/insel/Seite_237.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
     </list>
@@ -93,7 +93,8 @@
       <workItem from="1706771824617" duration="17645000" />
       <workItem from="1706860266628" duration="18636000" />
       <workItem from="1706935958435" duration="1476000" />
-      <workItem from="1707466314730" duration="6573000" />
+      <workItem from="1707466314730" duration="8598000" />
+      <workItem from="1707487617754" duration="3540000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -343,7 +344,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707472614923</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Add Guess right number">
+      <option name="closed" value="true" />
+      <created>1707476635926</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1707476635926</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
