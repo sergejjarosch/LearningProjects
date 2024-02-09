@@ -1,5 +1,6 @@
 import Simple_examples.Examples;
 import Simple_examples.GuessRight;
+import Simple_examples.dnaBases;
 import algorithmen.BubbleSort;
 import array.*;
 import conditions.*;
@@ -15,6 +16,7 @@ public class App {
     of the learning process in order to clarify various
     basic functions for myself  */
     public static void main(String[] args) throws IOException {
+
 
 // Simple Examples - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
  /*       Simple_examples.Examples example_1 = new Examples();
@@ -132,6 +134,9 @@ The Math.random; method is used here.
 
 /*        Simple_examples.GuessRight GuessNumber = new GuessRight();
         GuessNumber.GuessRight_output();        */
+
+        Simple_examples.dnaBases dnaBases_1 = new dnaBases();
+        dnaBases_1.dnaBases_output();
 
     }
 }
