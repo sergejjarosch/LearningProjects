@@ -138,7 +138,10 @@ The Math.random; method is used here.
 /*        Simple_examples.dnaBases dnaBases_1 = new dnaBases();
         dnaBases_1.dnaBases_output();       */
 
-        insel.Seite_237.printMax();
+/*       insel.Seite_237.printMax();        */
+
+
+
 
     }
 }

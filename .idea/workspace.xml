@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Add Guess right number">
-      <change afterPath="$PROJECT_DIR$/src/insel/Seite_237.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add private Numbers in Seite_237">
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/insel/Seite_237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insel/Seite_237.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +93,7 @@
       <workItem from="1706860266628" duration="18636000" />
       <workItem from="1706935958435" duration="1476000" />
       <workItem from="1707466314730" duration="8598000" />
-      <workItem from="1707487617754" duration="3540000" />
+      <workItem from="1707487617754" duration="3970000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -352,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707476635926</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add private Numbers in Seite_237">
+      <option name="closed" value="true" />
+      <created>1707491188477</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1707491188477</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -370,7 +377,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lösung für x :&#10;-0.8580262366249893" />
     <MESSAGE value="SymbolKodierung erstellt" />
     <MESSAGE value="Comments specified" />
     <MESSAGE value="Optimum switching of the resistors" />
@@ -395,6 +401,7 @@
     <MESSAGE value="add Bubble Sort" />
     <MESSAGE value="add Array Matrix" />
     <MESSAGE value="Add Guess right number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Guess right number" />
+    <MESSAGE value="add private Numbers in Seite_237" />
+    <option name="LAST_COMMIT_MESSAGE" value="add private Numbers in Seite_237" />
   </component>
 </project>

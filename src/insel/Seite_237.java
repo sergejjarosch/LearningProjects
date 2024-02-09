@@ -19,4 +19,6 @@ public class Seite_237 {
         else
             System.out.println("Zahl " + zahl_b + " ist Größer " );
         }
+
+
 }
