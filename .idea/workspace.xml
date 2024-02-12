@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add private Numbers in Seite_237">
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add array 39 - Text concealment">
+      <change afterPath="$PROJECT_DIR$/src/Simple_examples/TowerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_02_24,_05_50_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_02_24,_06_22_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_02_24,_06_31_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_02_24__05_50__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_02_24__06_22__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_03_02_24__06_31__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/insel/Seite_237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insel/Seite_237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Simple_examples/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple_examples/Examples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,11 +29,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -46,13 +49,16 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2bf7cv4vQXajTDvLQl9VJXdOL0J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Application.App.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -75,7 +81,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-9b16c6e2" />
       </set>
     </attachedChunks>
   </component>
@@ -91,9 +97,11 @@
       <workItem from="1706626330752" duration="1306000" />
       <workItem from="1706771824617" duration="17645000" />
       <workItem from="1706860266628" duration="18636000" />
-      <workItem from="1706935958435" duration="1476000" />
-      <workItem from="1707466314730" duration="8598000" />
-      <workItem from="1707487617754" duration="3970000" />
+      <workItem from="1706935958435" duration="744000" />
+      <workItem from="1706940726679" duration="1169000" />
+      <workItem from="1706950597883" duration="208000" />
+      <workItem from="1707118364122" duration="11259000" />
+      <workItem from="1707204727914" duration="13275000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -255,111 +263,87 @@
       <option name="project" value="LOCAL" />
       <updated>1706936290265</updated>
     </task>
-    <task id="LOCAL-00021" summary="add array - error">
+    <task id="LOCAL-00021" summary="add array 31">
       <option name="closed" value="true" />
-      <created>1706937390551</created>
+      <created>1706940435529</created>
       <option name="number" value="00021" />
       <option name="presentableId" value="LOCAL-00021" />
       <option name="project" value="LOCAL" />
-      <updated>1706937390551</updated>
+      <updated>1706940435529</updated>
     </task>
-    <task id="LOCAL-00022" summary="add array - error">
+    <task id="LOCAL-00022" summary="add array 31">
       <option name="closed" value="true" />
-      <created>1706937398470</created>
+      <created>1706940450739</created>
       <option name="number" value="00022" />
       <option name="presentableId" value="LOCAL-00022" />
       <option name="project" value="LOCAL" />
-      <updated>1706937398470</updated>
+      <updated>1706940450739</updated>
     </task>
-    <task id="LOCAL-00023" summary="add array - error">
+    <task id="LOCAL-00023" summary="add array 32">
       <option name="closed" value="true" />
-      <created>1706938033659</created>
+      <created>1707120359351</created>
       <option name="number" value="00023" />
       <option name="presentableId" value="LOCAL-00023" />
       <option name="project" value="LOCAL" />
-      <updated>1706938033659</updated>
+      <updated>1707120359351</updated>
     </task>
-    <task id="LOCAL-00024" summary="add array 3.10">
+    <task id="LOCAL-00024" summary="add array 33">
       <option name="closed" value="true" />
-      <created>1707295130348</created>
+      <created>1707121602245</created>
       <option name="number" value="00024" />
       <option name="presentableId" value="LOCAL-00024" />
       <option name="project" value="LOCAL" />
-      <updated>1707295130349</updated>
+      <updated>1707121602245</updated>
     </task>
-    <task id="LOCAL-00025" summary="add array 3.11 - Fibonacci">
+    <task id="LOCAL-00025" summary="add array 34">
       <option name="closed" value="true" />
-      <created>1707296197598</created>
+      <created>1707122668287</created>
       <option name="number" value="00025" />
       <option name="presentableId" value="LOCAL-00025" />
       <option name="project" value="LOCAL" />
-      <updated>1707296197598</updated>
+      <updated>1707122668287</updated>
     </task>
-    <task id="LOCAL-00026" summary="add array 3.11 - Fibonacci, add scanner">
+    <task id="LOCAL-00026" summary="add array 35 - add images: Lion, Tiger, Bear">
       <option name="closed" value="true" />
-      <created>1707300360177</created>
+      <created>1707137286180</created>
       <option name="number" value="00026" />
       <option name="presentableId" value="LOCAL-00026" />
       <option name="project" value="LOCAL" />
-      <updated>1707300360177</updated>
+      <updated>1707137286180</updated>
     </task>
-    <task id="LOCAL-00027" summary="add Scanner inline">
+    <task id="LOCAL-00027" summary="add array 36 - add images: Lion, Tiger, Bear">
       <option name="closed" value="true" />
-      <created>1707302662074</created>
+      <created>1707146139942</created>
       <option name="number" value="00027" />
       <option name="presentableId" value="LOCAL-00027" />
       <option name="project" value="LOCAL" />
-      <updated>1707302662074</updated>
+      <updated>1707146139942</updated>
     </task>
-    <task id="LOCAL-00028" summary="add Bubble Sort">
+    <task id="LOCAL-00028" summary="add array 37 - Comparison of two arrays">
       <option name="closed" value="true" />
-      <created>1707309322612</created>
+      <created>1707223506492</created>
       <option name="number" value="00028" />
       <option name="presentableId" value="LOCAL-00028" />
       <option name="project" value="LOCAL" />
-      <updated>1707309322612</updated>
+      <updated>1707223506492</updated>
     </task>
-    <task id="LOCAL-00029" summary="add Array Matrix">
+    <task id="LOCAL-00029" summary="add array 38 - Comparison of two arrays">
       <option name="closed" value="true" />
-      <created>1707317699201</created>
+      <created>1707224992569</created>
       <option name="number" value="00029" />
       <option name="presentableId" value="LOCAL-00029" />
       <option name="project" value="LOCAL" />
-      <updated>1707317699201</updated>
+      <updated>1707224992569</updated>
     </task>
-    <task id="LOCAL-00030" summary="add Array Matrix">
+    <task id="LOCAL-00030" summary="add array 39 - Text concealment">
       <option name="closed" value="true" />
-      <created>1707319509558</created>
+      <created>1707229592858</created>
       <option name="number" value="00030" />
       <option name="presentableId" value="LOCAL-00030" />
       <option name="project" value="LOCAL" />
-      <updated>1707319509558</updated>
+      <updated>1707229592858</updated>
     </task>
-    <task id="LOCAL-00031" summary="Add Guess right number">
-      <option name="closed" value="true" />
-      <created>1707472614923</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1707472614923</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Add Guess right number">
-      <option name="closed" value="true" />
-      <created>1707476635926</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1707476635926</updated>
-    </task>
-    <task id="LOCAL-00033" summary="add private Numbers in Seite_237">
-      <option name="closed" value="true" />
-      <created>1707491188477</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1707491188477</updated>
-    </task>
-    <option name="localTasksCounter" value="34" />
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -377,7 +361,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="SymbolKodierung erstellt" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Comments specified" />
     <MESSAGE value="Optimum switching of the resistors" />
     <MESSAGE value="Number Guessing Game" />
@@ -394,14 +378,15 @@
     <MESSAGE value="add array-" />
     <MESSAGE value="add array" />
     <MESSAGE value="add array - error" />
-    <MESSAGE value="add array 3.10" />
-    <MESSAGE value="add array 3.11 - Fibonacci" />
-    <MESSAGE value="add array 3.11 - Fibonacci, add scanner" />
-    <MESSAGE value="add Scanner inline" />
-    <MESSAGE value="add Bubble Sort" />
-    <MESSAGE value="add Array Matrix" />
-    <MESSAGE value="Add Guess right number" />
-    <MESSAGE value="add private Numbers in Seite_237" />
-    <option name="LAST_COMMIT_MESSAGE" value="add private Numbers in Seite_237" />
+    <MESSAGE value="add array 31" />
+    <MESSAGE value="add array 32" />
+    <MESSAGE value="add array 33" />
+    <MESSAGE value="add array 34" />
+    <MESSAGE value="add array 35 - add images: Lion, Tiger, Bear" />
+    <MESSAGE value="add array 36 - add images: Lion, Tiger, Bear" />
+    <MESSAGE value="add array 37 - Comparison of two arrays" />
+    <MESSAGE value="add array 38 - Comparison of two arrays" />
+    <MESSAGE value="add array 39 - Text concealment" />
+    <option name="LAST_COMMIT_MESSAGE" value="add array 39 - Text concealment" />
   </component>
 </project>

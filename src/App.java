@@ -22,6 +22,8 @@ public class App {
  /*       Simple_examples.Examples example_1 = new Examples();
         example_1.example_output();     */
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+// Tower fon Hanoi
+        Simple_examples.TowerOfHanoi.move(4, "cooper peg", "gold peg", "silver peg");
 
 /* Operators.Trigonometrie
         Operators.Trigonometrie TrGn = new Operators.Trigonometrie();
