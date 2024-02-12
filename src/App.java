@@ -19,11 +19,14 @@ public class App {
 
 
 // Simple Examples - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
- /*       Simple_examples.Examples example_1 = new Examples();
-        example_1.example_output();     */
+//      Simple_examples.Examples example_1 = new Examples();
+//        example_1.example_output();
+//        Simple_examples.Examples.printCurrentDate();
+        Simple_examples.Examples.RandomNumber();
+
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Tower fon Hanoi
-        Simple_examples.TowerOfHanoi.move(4, "cooper peg", "gold peg", "silver peg");
+/* Simple_examples.TowerOfHanoi.move(4, "cooper peg", "gold peg", "silver peg");      */
 
 /* Operators.Trigonometrie
         Operators.Trigonometrie TrGn = new Operators.Trigonometrie();
