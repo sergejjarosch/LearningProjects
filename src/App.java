@@ -24,9 +24,10 @@ public class App {
 //        Simple_examples.Examples.printCurrentDate();
 
 // - - - Würfel zufällig werfen mit der Häufigkeit - - -
-        Simple_examples.RandomDice.roll();
+    //    Simple_examples.RandomDice.roll();
 
-
+// - - - - - Erweiterte For Schleife & Arrays - - - - - - -
+        Simple_examples.Examples.dieErweiterteForSchleife();
 
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Tower fon Hanoi

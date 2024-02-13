@@ -38,8 +38,10 @@ public class RandomDice {
 
         System.out.printf("Ich habe %d gewürfelt, dabei%n", anzahlWurf);
         int [] heufigkeit = {zahl_1, zahl_2, zahl_3, zahl_4, zahl_5, zahl_6};
+        int leange = heufigkeit.length;
         for ( int i = 0; i < heufigkeit.length; i++)
             System.out.printf( "Die: %d wurde %s Mal gewürfelt%n", i + 1, heufigkeit[ i ]);
+
     }
 
 
