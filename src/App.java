@@ -22,7 +22,7 @@ public class App {
 //      Simple_examples.Examples example_1 = new Examples();
 //        example_1.example_output();
 //        Simple_examples.Examples.printCurrentDate();
-        Simple_examples.Examples.RandomNumber();
+        Simple_examples.RandomDice.roll();
 
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Tower fon Hanoi

@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add changes">
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add Auswertung von den Wurfen mit Würfel">
+      <change afterPath="$PROJECT_DIR$/src/Simple_examples/RandomDice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Simple_examples/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple_examples/Examples.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +97,8 @@
       <workItem from="1707118364122" duration="11259000" />
       <workItem from="1707204727914" duration="13275000" />
       <workItem from="1707741782982" duration="5454000" />
-      <workItem from="1707810086244" duration="764000" />
+      <workItem from="1707810086244" duration="2655000" />
+      <workItem from="1707818263530" duration="316000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -353,7 +356,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707770655587</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add Auswertung von den Wurfen mit Würfel">
+      <option name="closed" value="true" />
+      <created>1707811219300</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1707811219300</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,7 +383,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Optimum switching of the resistors" />
     <MESSAGE value="Number Guessing Game" />
     <MESSAGE value="Simple conditional statement where the number is to be guessed. The Math.random; method is used here." />
     <MESSAGE value="Update Red Panda" />
@@ -397,6 +407,7 @@
     <MESSAGE value="add array 38 - Comparison of two arrays" />
     <MESSAGE value="add array 39 - Text concealment" />
     <MESSAGE value="add changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
+    <MESSAGE value="add Auswertung von den Wurfen mit Würfel" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Auswertung von den Wurfen mit Würfel" />
   </component>
 </project>
