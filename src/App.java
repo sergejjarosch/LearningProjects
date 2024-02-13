@@ -150,8 +150,8 @@ The Math.random; method is used here.
 
 /*       insel.Seite_237.printMax();        */
 
-        array.array_4.array_4_output();
-
+//        array.array_4.array_4_output();
+        array.array_46.output_array_46();
 
 
     }
