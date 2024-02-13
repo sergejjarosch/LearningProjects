@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="add changes">
+    <list default="true" id="79a82acb-7831-4118-9ac7-a27681d4ccdf" name="Changes" comment="Vereinfachte For-Schleife">
+      <change afterPath="$PROJECT_DIR$/src/array/array_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple_examples/Examples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple_examples/Examples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Simple_examples/RandomDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Simple_examples/RandomDice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <workItem from="1707204727914" duration="13275000" />
       <workItem from="1707741782982" duration="5454000" />
       <workItem from="1707810086244" duration="2655000" />
-      <workItem from="1707818263530" duration="7462000" />
+      <workItem from="1707818263530" duration="8706000" />
     </task>
     <task id="LOCAL-00001" summary="Lösung für x :&#10;-0.8580262366249893">
       <option name="closed" value="true" />
@@ -388,7 +387,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707822039731</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Vereinfachte For-Schleife">
+      <option name="closed" value="true" />
+      <created>1707830847668</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1707830847668</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +414,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Simple conditional statement where the number is to be guessed. The Math.random; method is used here." />
     <MESSAGE value="Update Red Panda" />
     <MESSAGE value="Create Listing 2.3" />
     <MESSAGE value="Create Listing 2.4 Switch" />
@@ -432,6 +438,7 @@
     <MESSAGE value="add Auswertung von den Wurfen mit Würfel" />
     <MESSAGE value="Add an Array for the Print Methode" />
     <MESSAGE value="add changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add changes" />
+    <MESSAGE value="Vereinfachte For-Schleife" />
+    <option name="LAST_COMMIT_MESSAGE" value="Vereinfachte For-Schleife" />
   </component>
 </project>

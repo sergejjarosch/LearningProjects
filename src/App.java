@@ -27,7 +27,7 @@ public class App {
     //    Simple_examples.RandomDice.roll();
 
 // - - - - - Erweiterte For Schleife & Arrays - - - - - - -
-        Simple_examples.Examples.dieErweiterteForSchleife();
+    //    Simple_examples.Examples.dieErweiterteForSchleife();
 
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Tower fon Hanoi
@@ -149,6 +149,10 @@ The Math.random; method is used here.
         dnaBases_1.dnaBases_output();       */
 
 /*       insel.Seite_237.printMax();        */
+
+        array.array_4.array_4_output();
+
+
 
     }
 }
