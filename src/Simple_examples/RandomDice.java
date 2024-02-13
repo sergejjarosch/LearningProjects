@@ -1,9 +1,7 @@
 package Simple_examples;
-
 import java.util.Scanner;
 
 public class RandomDice {
-
     public static void roll() {
         int zahl_1 = 0;
         int zahl_2 = 0;
@@ -11,7 +9,6 @@ public class RandomDice {
         int zahl_4 = 0;
         int zahl_5 = 0;
         int zahl_6 = 0;
-
         int wuerfel;
 
         System.out.println("Wiviel mal soll ich würfeln? ");
@@ -36,12 +33,24 @@ public class RandomDice {
         System.out.println("Die Zahl 4 wurde: " + zahl_4 + " gewürfelt.");
         System.out.println("Die Zahl 5 wurde: " + zahl_5 + " gewürfelt.");
         System.out.println("Die Zahl 6 wurde: " + zahl_6 + " gewürfelt.");
-
          */
-        System.out.printf("Ich habe %d gewürfelt, dabei", anzahlWurf);
+
+        System.out.printf("Ich habe %d gewürfelt, dabei%n", anzahlWurf);
         int [] heufigkeit = {zahl_1, zahl_2, zahl_3, zahl_4, zahl_5, zahl_6};
         for ( int i = 0; i < heufigkeit.length; i++)
             System.out.printf( "Die: %d wurde %s Mal gewürfelt%n", i + 1, heufigkeit[ i ]);
+
+
     }
+    /*
+    public static void avg_Dice() {
+        int sum = 0;
+        for ( int i = 0; i < heufigkeit.length; i++)
+            sum += heufigkeit[ i] ;
+        int avg = sum / heufigkeit.length;
+            System.out.println("Der Durchschnitt ist: " + avg );
+
+
+    }  */
 
 }

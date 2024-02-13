@@ -22,7 +22,11 @@ public class App {
 //      Simple_examples.Examples example_1 = new Examples();
 //        example_1.example_output();
 //        Simple_examples.Examples.printCurrentDate();
+
+// - - - Würfel zufällig werfen mit der Häufigkeit - - -
         Simple_examples.RandomDice.roll();
+
+
 
  // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 // Tower fon Hanoi
@@ -144,9 +148,6 @@ The Math.random; method is used here.
         dnaBases_1.dnaBases_output();       */
 
 /*       insel.Seite_237.printMax();        */
-
-
-
 
     }
 }
