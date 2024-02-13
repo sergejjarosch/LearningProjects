@@ -13,6 +13,7 @@ public class RandomDice {
 
         System.out.println("Wiviel mal soll ich würfeln? ");
         int anzahlWurf = new Scanner(System.in).nextInt();
+
         for (int i = 0; i < anzahlWurf; i++ ) {
             wuerfel = (int) (Math.random() * 6 +1);
             switch ( wuerfel ) {
@@ -39,18 +40,7 @@ public class RandomDice {
         int [] heufigkeit = {zahl_1, zahl_2, zahl_3, zahl_4, zahl_5, zahl_6};
         for ( int i = 0; i < heufigkeit.length; i++)
             System.out.printf( "Die: %d wurde %s Mal gewürfelt%n", i + 1, heufigkeit[ i ]);
-
-
     }
-    /*
-    public static void avg_Dice() {
-        int sum = 0;
-        for ( int i = 0; i < heufigkeit.length; i++)
-            sum += heufigkeit[ i] ;
-        int avg = sum / heufigkeit.length;
-            System.out.println("Der Durchschnitt ist: " + avg );
 
-
-    }  */
 
 }
